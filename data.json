@@ -1,0 +1,2055 @@
+{
+ "updated": "2026-11-15T12:05",
+ "stores": [
+  {
+   "url": "https://s-garderob.ru/moskva/masterkova_4/",
+   "type": "1",
+   "name": "Мастеркова, 4",
+   "metro": "Автозаводская",
+   "blocks": [
+    {
+     "price": 990,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 1490,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 1990,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2490,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2990,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 5990,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D0%B0%2C%204"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/borisovskie_prudy_d_26/",
+   "type": "2",
+   "name": "Борисовские пруды, д.26",
+   "metro": "Алма-Атинская",
+   "blocks": [
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "est",
+     "per_piece": null,
+     "last": "2026-11-14",
+     "next": "2026-12-14",
+     "days": 29
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BF%D1%80%D1%83%D0%B4%D1%8B%2C%20%D0%B4.26"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/leskova_16/",
+   "type": "1",
+   "name": "Лескова, 16",
+   "metro": "Алтуфьево",
+   "blocks": [
+    {
+     "price": 1090,
+     "unit": "кг",
+     "disc": 31,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 1590,
+     "unit": "кг",
+     "disc": 24,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 5490,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 3090,
+     "unit": "кг",
+     "disc": 14,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2590,
+     "unit": "кг",
+     "disc": 16,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9B%D0%B5%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%2C%2016"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/anadyrskiy_proezd_d_8/",
+   "type": "3",
+   "name": "Анадырский проезд, д.8",
+   "metro": "Бабушкинская",
+   "blocks": [
+    {
+     "price": null,
+     "unit": null,
+     "disc": 60,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%90%D0%BD%D0%B0%D0%B4%D1%8B%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%2C%20%D0%B4.8"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/baumanskaya_d_32_2_str_2/",
+   "type": "2",
+   "name": "Бауманская, д.32/2 стр. 2",
+   "metro": "Бауманская",
+   "blocks": [
+    {
+     "price": 690,
+     "unit": "кг",
+     "disc": 84,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-10-18",
+     "next": "2026-11-18",
+     "days": 3
+    },
+    {
+     "price": 960,
+     "unit": "кг",
+     "disc": 83,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-10-18",
+     "next": "2026-11-18",
+     "days": 3
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%20%D0%B4.32/2%20%D1%81%D1%82%D1%80.%202"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/aptekarskiy_pereulok_d_15_korpus_2/",
+   "type": "2",
+   "name": "Аптекарский переулок, д.15, корпус 2",
+   "metro": "Бауманская",
+   "blocks": [
+    {
+     "price": 490,
+     "unit": "кг",
+     "disc": 88,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-10-17",
+     "next": "2026-11-17",
+     "days": 2
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%90%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%B5%D1%80%D0%B5%D1%83%D0%BB%D0%BE%D0%BA%2C%20%D0%B4.15%2C%20%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81%202"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/miklukho_maklaya_d_18_kor_3/",
+   "type": "2",
+   "name": "Миклухо Маклая, д.18, кор.3",
+   "metro": "Беляево",
+   "blocks": [
+    {
+     "price": 1890,
+     "unit": "кг",
+     "disc": 14,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-12",
+     "next": "2026-12-12",
+     "days": 27
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9C%D0%B8%D0%BA%D0%BB%D1%83%D1%85%D0%BE%20%D0%9C%D0%B0%D0%BA%D0%BB%D0%B0%D1%8F%2C%20%D0%B4.18%2C%20%D0%BA%D0%BE%D1%80.3"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/kostromskaya_17/",
+   "type": "3",
+   "name": "Костромская, 17",
+   "metro": "Бибирево",
+   "blocks": [
+    {
+     "price": null,
+     "unit": null,
+     "disc": 80,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-10-18",
+     "next": "2026-11-18",
+     "days": 3
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9A%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%2C%2017"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/bratislavskaya_d_18_k1/",
+   "type": "2",
+   "name": "Братиславская, д.18 к1",
+   "metro": "Братиславская",
+   "blocks": [
+    {
+     "price": 1990,
+     "unit": "кг",
+     "disc": 20,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2490,
+     "unit": "кг",
+     "disc": 29,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%91%D1%80%D0%B0%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%20%D0%B4.18%20%D0%BA1"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/lyublinskaya_153/",
+   "type": "1",
+   "name": "Люблинская, 153",
+   "metro": "Братиславская",
+   "blocks": [
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "est",
+     "per_piece": null,
+     "last": "2026-11-14",
+     "next": "2026-12-14",
+     "days": 29
+    },
+    {
+     "price": 1990,
+     "unit": "кг",
+     "disc": 20,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 990,
+     "unit": "кг",
+     "disc": 34,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": null,
+     "unit": null,
+     "disc": 70,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9B%D1%8E%D0%B1%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%20153"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/venevskaya_d_4/",
+   "type": "2",
+   "name": "Веневская, д.4",
+   "metro": "Бульвар Адмирала Ушакова",
+   "blocks": [
+    {
+     "price": 2490,
+     "unit": "кг",
+     "disc": 29,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%92%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%20%D0%B4.4"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/yuzhnobutovskaya_d_97/",
+   "type": "2",
+   "name": "Южнобутовская, д.97",
+   "metro": "Бунинская аллея",
+   "blocks": [
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-14",
+     "next": "2026-12-14",
+     "days": 29
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%AE%D0%B6%D0%BD%D0%BE%D0%B1%D1%83%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%20%D0%B4.97"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/palekhskaya_131a/",
+   "type": "2",
+   "name": "Палехская, 131А",
+   "metro": "ВДНХ",
+   "blocks": [
+    {
+     "price": 1290,
+     "unit": "кг",
+     "disc": 19,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9F%D0%B0%D0%BB%D0%B5%D1%85%D1%81%D0%BA%D0%B0%D1%8F%2C%20131%D0%90"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/chongarskiy_bulvar_10k1/",
+   "type": "2",
+   "name": "Чонгарский бульвар, 10к1",
+   "metro": "Варшавская",
+   "blocks": [
+    {
+     "price": 1690,
+     "unit": "кг",
+     "disc": 58,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A7%D0%BE%D0%BD%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%2C%2010%D0%BA1"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/kirova_2/",
+   "type": "3",
+   "name": "Кирова, 2",
+   "metro": "Жулебино",
+   "blocks": [
+    {
+     "price": null,
+     "unit": null,
+     "disc": 70,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%2C%202"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/proletarskiy_prospekt_d_25/",
+   "type": "2",
+   "name": "Пролетарский проспект, д.25",
+   "metro": "Кантемировская",
+   "blocks": [
+    {
+     "price": 2690,
+     "unit": "кг",
+     "disc": 10,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9F%D1%80%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%2C%20%D0%B4.25"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/sudostroitelnaya_1/",
+   "type": "2",
+   "name": "Судостроительная, 1",
+   "metro": "Коломенская",
+   "blocks": [
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-12",
+     "next": "2026-12-12",
+     "days": 27
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A1%D1%83%D0%B4%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%2C%201"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/novoryazanskoe_sh_1a/",
+   "type": "3",
+   "name": "Новорязанское ш., 1А",
+   "metro": "Котельники",
+   "blocks": [
+    {
+     "price": null,
+     "unit": null,
+     "disc": 30,
+     "est_price": 2933,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D1%8F%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5%20%D1%88.%2C%201%D0%90"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/zelenodolskaya_d_41_k1/",
+   "type": "2",
+   "name": "Зеленодольская, д.41 к1",
+   "metro": "Кузьминки",
+   "blocks": [
+    {
+     "price": 2490,
+     "unit": "кг",
+     "disc": 29,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C%20%D0%B4.41%20%D0%BA1"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/zemlyanoy_val_d_21_2_str_1/",
+   "type": "2",
+   "name": "Земляной вал, д.21/2, стр 1",
+   "metro": "Курская (Кольцевая линия)",
+   "blocks": [
+    {
+     "price": 2990,
+     "unit": "кг",
+     "disc": 14,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%97%D0%B5%D0%BC%D0%BB%D1%8F%D0%BD%D0%BE%D0%B9%20%D0%B2%D0%B0%D0%BB%2C%20%D0%B4.21/2%2C%20%D1%81%D1%82%D1%80%201"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/mitinskaya_39/",
+   "type": "3",
+   "name": "Митинская, 39",
+   "metro": "Митино",
+   "blocks": [
+    {
+     "price": null,
+     "unit": null,
+     "disc": 70,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9C%D0%B8%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2039"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/yartsevskaya_25a/",
+   "type": "1",
+   "name": "Ярцевская, 25А",
+   "metro": "Молодёжная",
+   "blocks": [
+    {
+     "price": 2990,
+     "unit": "кг",
+     "disc": 14,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-15",
+     "next": "2026-12-15",
+     "days": 30
+    },
+    {
+     "price": 1190,
+     "unit": "кг",
+     "disc": 25,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2990,
+     "unit": "кг",
+     "disc": 14,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 1890,
+     "unit": "кг",
+     "disc": 27,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%AF%D1%80%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%2025%D0%90"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/zelenyy_prospekt_83a/",
+   "type": "2",
+   "name": "Зеленый проспект, 83а",
+   "metro": "Новогиреево",
+   "blocks": [
+    {
+     "price": 3790,
+     "unit": "кг",
+     "disc": 5,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-12",
+     "next": "2026-12-12",
+     "days": 27
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%2C%2083%D0%B0"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/sayanskaya_d_9a/",
+   "type": "2",
+   "name": "Саянская, д.9А",
+   "metro": "Новогиреево",
+   "blocks": [
+    {
+     "price": 1200,
+     "unit": "кг",
+     "disc": 25,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A1%D0%B0%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%20%D0%B4.9%D0%90"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/svobodnyy_prospekt_d_37_18/",
+   "type": "3",
+   "name": "Свободный проспект, д.37/18",
+   "metro": "Новогиреево",
+   "blocks": [
+    {
+     "price": null,
+     "unit": null,
+     "disc": 50,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%2C%20%D0%B4.37/18"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/lenina_1a/",
+   "type": "1",
+   "name": "Ленина, 1А",
+   "metro": "Новокосино",
+   "blocks": [
+    {
+     "price": 2490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 3490,
+     "unit": "кг",
+     "disc": 13,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 3990,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-14",
+     "next": "2026-12-14",
+     "days": 29
+    },
+    {
+     "price": 990,
+     "unit": "кг",
+     "disc": 34,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2990,
+     "unit": "кг",
+     "disc": 25,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 1490,
+     "unit": "кг",
+     "disc": 25,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%201%D0%90"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/nosovikhinskoe_shosse_d_7/",
+   "type": "3",
+   "name": "Носовихинское шоссе, д.7",
+   "metro": "Новокосино",
+   "blocks": [
+    {
+     "price": null,
+     "unit": null,
+     "disc": 80,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-10-17",
+     "next": "2026-11-17",
+     "days": 2
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9D%D0%BE%D1%81%D0%BE%D0%B2%D0%B8%D1%85%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5%20%D1%88%D0%BE%D1%81%D1%81%D0%B5%2C%20%D0%B4.7"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/profsoyuznaya_56/",
+   "type": "1",
+   "name": "Профсоюзная, 56",
+   "metro": "Новые Черёмушки",
+   "blocks": [
+    {
+     "price": 2490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 3490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2990,
+     "unit": "кг",
+     "disc": 14,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-14",
+     "next": "2026-12-14",
+     "days": 29
+    },
+    {
+     "price": 1490,
+     "unit": "кг",
+     "disc": 40,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": null,
+     "unit": null,
+     "disc": 80,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 1990,
+     "unit": "кг",
+     "disc": 20,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7%D0%BD%D0%B0%D1%8F%2C%2056"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/dubninskaya_d_2_kor_2/",
+   "type": "2",
+   "name": "Дубнинская, д.2, кор.2",
+   "metro": "Окружная",
+   "blocks": [
+    {
+     "price": 3590,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 790,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "est",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%94%D1%83%D0%B1%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%20%D0%B4.2%2C%20%D0%BA%D0%BE%D1%80.2"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/narodnogo_opolcheniya_d_21_1/",
+   "type": "2",
+   "name": "Народного Ополчения, д.21/1",
+   "metro": "Октябрьское Поле",
+   "blocks": [
+    {
+     "price": 1190,
+     "unit": "кг",
+     "disc": 34,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%9E%D0%BF%D0%BE%D0%BB%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D0%B4.21/1"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/khachaturyana_20/",
+   "type": "1",
+   "name": "Хачатуряна, 20",
+   "metro": "Отрадное",
+   "blocks": [
+    {
+     "price": 2990,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 590,
+     "unit": "кг",
+     "disc": 40,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 1790,
+     "unit": "кг",
+     "disc": 25,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 1490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 3590,
+     "unit": "кг",
+     "disc": 14,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 5990,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A5%D0%B0%D1%87%D0%B0%D1%82%D1%83%D1%80%D1%8F%D0%BD%D0%B0%2C%2020"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/2_ya_vladimirskaya_d_42/",
+   "type": "2",
+   "name": "2-я Владимирская, д.42",
+   "metro": "Перово",
+   "blocks": [
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-12",
+     "next": "2026-12-12",
+     "days": 27
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%202-%D1%8F%20%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F%2C%20%D0%B4.42"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/kirovogradskaya_d_13/",
+   "type": "1",
+   "name": "Кировоградская, д.13",
+   "metro": "Пражская",
+   "blocks": [
+    {
+     "price": 3190,
+     "unit": "кг",
+     "disc": 9,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 790,
+     "unit": "кг",
+     "disc": 34,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 1590,
+     "unit": "кг",
+     "disc": 20,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2390,
+     "unit": "кг",
+     "disc": 14,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 4990,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-14",
+     "next": "2026-12-14",
+     "days": 29
+    },
+    {
+     "price": null,
+     "unit": null,
+     "disc": null,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-14",
+     "next": "2026-12-14",
+     "days": 29
+    },
+    {
+     "price": null,
+     "unit": null,
+     "disc": 30,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2790,
+     "unit": "кг",
+     "disc": 13,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F%2C%20%D0%B4.13"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/prospekt_vernadskogo_d_39/",
+   "type": "2",
+   "name": "Проспект Вернадского, д.39",
+   "metro": "Проспект Вернадского",
+   "blocks": [
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%92%D0%B5%D1%80%D0%BD%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%2C%20%D0%B4.39"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/nakhimovskiy_d_46/",
+   "type": "3",
+   "name": "Нахимовский, д.46",
+   "metro": "Профсоюзная",
+   "blocks": [
+    {
+     "price": null,
+     "unit": null,
+     "disc": 30,
+     "est_price": 2933,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9D%D0%B0%D1%85%D0%B8%D0%BC%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%2C%20%D0%B4.46"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/festivalnaya_17_k_1a/",
+   "type": "1",
+   "name": "Фестивальная, 17 к.1А",
+   "metro": "Речной вокзал",
+   "blocks": [
+    {
+     "price": 1490,
+     "unit": "кг",
+     "disc": 25,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "est",
+     "per_piece": null,
+     "last": "2026-11-14",
+     "next": "2026-12-14",
+     "days": 29
+    },
+    {
+     "price": 3490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2990,
+     "unit": "кг",
+     "disc": 14,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": null,
+     "unit": null,
+     "disc": 20,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-14",
+     "next": "2026-12-14",
+     "days": 29
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A4%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%2C%2017%20%D0%BA.1%D0%90"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/sushchevskiy_val_d_5_str_1/",
+   "type": "1",
+   "name": "Сущевский вал, д.5 стр.1",
+   "metro": "Савёловская",
+   "blocks": [
+    {
+     "price": null,
+     "unit": null,
+     "disc": 25,
+     "est_price": 2242,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": null,
+     "unit": null,
+     "disc": 25,
+     "est_price": 2618,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": null,
+     "unit": null,
+     "disc": 25,
+     "est_price": 742,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": null,
+     "unit": null,
+     "disc": 25,
+     "est_price": 1492,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": null,
+     "unit": null,
+     "disc": 25,
+     "est_price": 2618,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": null,
+     "unit": null,
+     "disc": 25,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-14",
+     "next": "2026-12-14",
+     "days": 29
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A1%D1%83%D1%89%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D0%B0%D0%BB%2C%20%D0%B4.5%20%D1%81%D1%82%D1%80.1"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/solntsevskiy_prospekt_21/",
+   "type": "2",
+   "name": "Солнцевский проспект, 21",
+   "metro": "Солнцево",
+   "blocks": [
+    {
+     "price": 2990,
+     "unit": "кг",
+     "disc": 14,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%2C%2021"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/tallinskaya_18/",
+   "type": "3",
+   "name": "Таллинская, 18",
+   "metro": "Строгино",
+   "blocks": [
+    {
+     "price": null,
+     "unit": null,
+     "disc": 40,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2018"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/skhodnenskaya_d_35k1/",
+   "type": "1",
+   "name": "Сходненская, д.35к1",
+   "metro": "Сходненская",
+   "blocks": [
+    {
+     "price": 2490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2990,
+     "unit": "кг",
+     "disc": 14,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 990,
+     "unit": "кг",
+     "disc": 34,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "est",
+     "per_piece": null,
+     "last": "2026-11-14",
+     "next": "2026-12-14",
+     "days": 29
+    },
+    {
+     "price": 3490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A1%D1%85%D0%BE%D0%B4%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%20%D0%B4.35%D0%BA1"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/taganskaya_1st1/",
+   "type": "1",
+   "name": "Таганская, 1ст1",
+   "metro": "Таганская",
+   "blocks": [
+    {
+     "price": 990,
+     "unit": "кг",
+     "disc": 50,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 3490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2990,
+     "unit": "кг",
+     "disc": 14,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": null,
+     "unit": null,
+     "disc": null,
+     "est_price": null,
+     "mode": "est",
+     "per_piece": null,
+     "last": "2026-11-12",
+     "next": "2026-12-12",
+     "days": 27
+    },
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-12",
+     "next": "2026-12-12",
+     "days": 27
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%201%D1%81%D1%821"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/lyublinskaya_4as1/",
+   "type": "2",
+   "name": "Люблинская, 4Ас1",
+   "metro": "Текстильщики",
+   "blocks": [
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9B%D1%8E%D0%B1%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%204%D0%90%D1%811"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/yablochkova_19g/",
+   "type": "1",
+   "name": "Яблочкова, 19Г",
+   "metro": "Тимирязевская",
+   "blocks": [
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 990,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 3490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2990,
+     "unit": "кг",
+     "disc": 14,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%AF%D0%B1%D0%BB%D0%BE%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%2C%2019%D0%93"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/bolshaya_tulskaya_d_2/",
+   "type": "2",
+   "name": "Большая Тульская, д.2",
+   "metro": "Тульская",
+   "blocks": [
+    {
+     "price": 2000,
+     "unit": "кг",
+     "disc": 9,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%A2%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C%20%D0%B4.2"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/tushinskaya_d_16/",
+   "type": "1",
+   "name": "Тушинская, д.16",
+   "metro": "Тушинская",
+   "blocks": [
+    {
+     "price": 990,
+     "unit": "кг",
+     "disc": 34,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 1490,
+     "unit": "кг",
+     "disc": 25,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2490,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 3590,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 690,
+     "unit": "кг",
+     "disc": 30,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 990,
+     "unit": "кг",
+     "disc": 34,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A2%D1%83%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%20%D0%B4.16"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/novoyasenevskiy_prospekt_1/",
+   "type": "1",
+   "name": "Новоясеневский проспект, 1",
+   "metro": "Тёплый стан",
+   "blocks": [
+    {
+     "price": 3490,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "est",
+     "per_piece": null,
+     "last": "2026-11-14",
+     "next": "2026-12-14",
+     "days": 29
+    },
+    {
+     "price": 690,
+     "unit": "кг",
+     "disc": 30,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 990,
+     "unit": "кг",
+     "disc": 34,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 1990,
+     "unit": "кг",
+     "disc": 20,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 1490,
+     "unit": "кг",
+     "disc": 25,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 1990,
+     "unit": "кг",
+     "disc": 33,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%8F%D1%81%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%2C%201"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/yuzhnobutovskaya_d_29/",
+   "type": "2",
+   "name": "Южнобутовская, д.29",
+   "metro": "Улица Горчакова",
+   "blocks": [
+    {
+     "price": 790,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%AE%D0%B6%D0%BD%D0%BE%D0%B1%D1%83%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%20%D0%B4.29"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/balaklavskiy_prospekt_d_5a/",
+   "type": "2",
+   "name": "Балаклавский проспект, д.5А",
+   "metro": "Чертановская",
+   "blocks": [
+    {
+     "price": 3490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-12",
+     "next": "2026-12-12",
+     "days": 27
+    },
+    {
+     "price": 4490,
+     "unit": "кг",
+     "disc": 18,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%91%D0%B0%D0%BB%D0%B0%D0%BA%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%2C%20%D0%B4.5%D0%90"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/uralskaya_1a/",
+   "type": "1",
+   "name": "Уральская, 1А",
+   "metro": "Щёлковская",
+   "blocks": [
+    {
+     "price": 1490,
+     "unit": "кг",
+     "disc": 25,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 3490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "est",
+     "per_piece": null,
+     "last": "2026-11-14",
+     "next": "2026-12-14",
+     "days": 29
+    },
+    {
+     "price": null,
+     "unit": null,
+     "disc": 20,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-14",
+     "next": "2026-12-14",
+     "days": 29
+    },
+    {
+     "price": 2990,
+     "unit": "кг",
+     "disc": 14,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A3%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%2C%201%D0%90"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/bolshaya_semenovskaya_28/",
+   "type": "1",
+   "name": "Большая Семеновская, 28",
+   "metro": "Электрозаводская",
+   "blocks": [
+    {
+     "price": 2490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2990,
+     "unit": "кг",
+     "disc": 14,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 4190,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "est",
+     "per_piece": null,
+     "last": "2026-11-14",
+     "next": "2026-12-14",
+     "days": 29
+    },
+    {
+     "price": 990,
+     "unit": "кг",
+     "disc": 34,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 3490,
+     "unit": "кг",
+     "disc": 17,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%2028"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/pokryshkina_4/",
+   "type": "2",
+   "name": "Покрышкина, 4",
+   "metro": "Юго-Западная",
+   "blocks": [
+    {
+     "price": 2590,
+     "unit": "кг",
+     "disc": 26,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    },
+    {
+     "price": 2590,
+     "unit": "кг",
+     "disc": 26,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9F%D0%BE%D0%BA%D1%80%D1%8B%D1%88%D0%BA%D0%B8%D0%BD%D0%B0%2C%204"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/prospekt_vernadskogo_d_86b_str_1/",
+   "type": "2",
+   "name": "Проспект Вернадского, д.86Б, стр. 1",
+   "metro": "Юго-Западная",
+   "blocks": [
+    {
+     "price": 2190,
+     "unit": "кг",
+     "disc": 15,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%92%D0%B5%D1%80%D0%BD%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%2C%20%D0%B4.86%D0%91%2C%20%D1%81%D1%82%D1%80.%201"
+  },
+  {
+   "url": "https://s-garderob.ru/moskva/litovskiy_b_r_22/",
+   "type": "2",
+   "name": "Литовский б-р, 22",
+   "metro": "Ясенево",
+   "blocks": [
+    {
+     "price": 2990,
+     "unit": "кг",
+     "disc": 29,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-11",
+     "next": "2026-12-11",
+     "days": 26
+    }
+   ],
+   "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9B%D0%B8%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B1-%D1%80%2C%2022"
+  }
+ ]
+}
