@@ -1,0 +1,52 @@
+<!doctype html><html lang="ru"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>Секонд-охота</title>
+<style>
+:root{--bg:#eceff1;--ink:#1b2127;--mut:#65717c;--card:#fff;--hot:#b3202a;--ok:#1d7a4b;--line:#d5dbe0}
+@media(prefers-color-scheme:dark){:root{--bg:#14181c;--ink:#e8ecef;--mut:#8f9ba5;--card:#1d2328;--hot:#ff6b73;--ok:#4fcf90;--line:#2c353c}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,sans-serif;padding:14px;max-width:760px;margin-inline:auto}
+h1{font-size:22px;margin:4px 0}.upd{color:var(--mut);font-size:13px;margin-bottom:12px}
+nav{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+nav button{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:8px 12px;border-radius:8px;font:inherit;cursor:pointer}
+nav button.on{background:var(--ink);color:var(--bg)}
+.f{color:var(--mut);font-size:14px;margin-bottom:10px}.f input{width:70px;font:inherit;padding:4px;background:var(--card);color:var(--ink);border:1px solid var(--line);border-radius:6px}
+.r{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:8px;display:grid;grid-template-columns:1fr auto;gap:2px 12px}
+.big{font-size:26px;font-weight:700;color:var(--hot);text-align:right;line-height:1.1}.big small{display:block;font-size:12px;font-weight:400;color:var(--mut)}
+.a{font-weight:600}.m,.d{color:var(--mut);font-size:13px}.d b{color:var(--ink)}a{color:inherit}
+.est{font-size:11px;border:1px solid var(--mut);border-radius:4px;padding:0 4px;color:var(--mut)}.soon{color:var(--ok)}
+</style></head><body>
+<h1>Секонд-охота</h1><div class="upd" id="upd"></div>
+<nav id="tabs"></nav><div class="f" id="f"></div><div id="list"></div>
+<script>
+const $=s=>document.querySelector(s);let D,tab='ex',lim={p:2300,lo:40,hi:80};
+const fmt=d=>new Date(d).toLocaleDateString('ru',{day:'numeric',month:'short'});
+const T={ex:'Эксклюзив',t2:'Цена за кг',t3:'Скидки',fr:'Для друзей',dl:'Завозы'};
+const ex=s=>s.blocks[s.blocks.length-1],b0=s=>s.blocks[0];
+const pr=b=>b.price??b.est_price;
+function row(s,b,big,sub){const soon=b.days<=3;
+ return `<div class="r"><div><div class="a"><a href="${s.map}" target="_blank">${s.name}</a></div><div class="m">${s.metro||''}</div></div>
+ <div class="big">${big}<small>${sub||''}</small></div>
+ <div class="d" style="grid-column:1/-1">завоз был <b>${fmt(b.last)}</b>, следующий <b class="${soon?'soon':''}">${fmt(b.next)}</b> (через ${b.days} дн.) ${b.mode=='est'?'<span class="est">по циклу</span>':''}</div></div>`}
+function view(){const S=D.stores.filter(s=>!s.error&&s.blocks.length);let h='',f='',L=[];
+ if(tab=='ex'){L=S.filter(s=>s.type=='1'&&s.blocks.length>1).sort((a,b)=>(ex(b).disc??-1)-(ex(a).disc??-1));
+  h=L.map(s=>{const b=ex(s);return row(s,b,b.disc!=null?'−'+b.disc+'%':'?',b.price?b.price+' ₽/кг':'')}).join('')}
+ if(tab=='t2'){f=`цена до <input type=number id=p value=${lim.p}> ₽/кг`;
+  L=S.filter(s=>s.type=='2'&&pr(b0(s))&&pr(b0(s))<=lim.p).sort((a,b)=>pr(b0(a))-pr(b0(b)));
+  h=L.map(s=>{const b=b0(s);return row(s,b,(b.est_price&&!b.price?'~':'')+pr(b)+' ₽',b.disc!=null?'скидка '+b.disc+'%':'за кг')}).join('')}
+ if(tab=='t3'){f=`скидка от <input type=number id=lo value=${lim.lo}> до <input type=number id=hi value=${lim.hi}> %`;
+  L=S.filter(s=>s.type=='3'&&b0(s).disc!=null&&b0(s).disc>=lim.lo&&b0(s).disc<=lim.hi).sort((a,b)=>b0(b).disc-b0(a).disc);
+  h=L.map(s=>row(s,b0(s),'−'+b0(s).disc+'%')).join('')}
+ if(tab=='fr'){L=S.map(s=>{if(s.type=='3')return null;const bl=s.type=='1'?s.blocks.slice(0,-1):s.blocks;
+   const v=bl.map(pr).filter(x=>x);return v.length?{s,v:Math.min(...v),b:bl[0]}:null}).filter(Boolean).sort((a,b)=>a.v-b.v);
+  h=L.slice(0,25).map(x=>row(x.s,x.b,x.v+' ₽','самое дешёвое за кг')).join('')}
+ if(tab=='dl'){L=S.map(s=>({s,b:s.type=='1'?ex(s):b0(s)})).sort((a,b)=>a.b.days-b.b.days);
+  h=L.map(x=>row(x.s,x.b,x.b.days+' дн.','до завоза')).join('')}
+ $('#f').innerHTML=f;$('#list').innerHTML=h||'<p class="m">Ничего не подошло.</p>';
+ [['p','p'],['lo','lo'],['hi','hi']].forEach(([i,k])=>{const e=$('#'+i);if(e)e.onchange=()=>{lim[k]=+e.value;view()}})}
+fetch('data.json').then(r=>r.json()).then(d=>{D=d;
+ const bad=d.stores.filter(s=>s.error).length;
+ $('#upd').textContent='Обновлено '+new Date(d.updated).toLocaleString('ru')+(bad?` · не загрузились: ${bad}`:'');
+ $('#tabs').innerHTML=Object.entries(T).map(([k,v])=>`<button data-k=${k}>${v}</button>`).join('');
+ $('#tabs').onclick=e=>{if(e.target.dataset.k){tab=e.target.dataset.k;sync();view()}};
+ const sync=()=>document.querySelectorAll('nav button').forEach(b=>b.classList.toggle('on',b.dataset.k==tab));sync();view()})
+ .catch(()=>$('#list').innerHTML='<p>Нет data.json. Запустите workflow "update" на GitHub.</p>');
+</script></body></html>
