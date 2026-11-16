@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T05:59",
+ "updated": "2026-11-16T16:07",
  "stores": [
   {
    "url": "https://s-garderob.ru/moskva/masterkova_4/",
@@ -516,7 +516,7 @@
      "price": null,
      "unit": null,
      "disc": 30,
-     "est_price": null,
+     "est_price": 2933,
      "mode": "live",
      "per_piece": null,
      "last": "2026-11-12",
@@ -579,9 +579,9 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-12",
-     "next": "2026-12-12",
-     "days": 26
+     "last": "2026-11-16",
+     "next": "2026-12-16",
+     "days": 30
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9C%D0%B8%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2039"
