@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:53",
+ "updated": "2026-11-20T14:52",
  "stores": [
   {
    "url": "https://s-garderob.ru/moskva/masterkova_4/",
@@ -1141,9 +1141,9 @@
    "metro": "Проспект Вернадского",
    "blocks": [
     {
-     "price": 3490,
+     "price": 3990,
      "unit": "кг",
-     "disc": 13,
+     "disc": 5,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
@@ -1735,7 +1735,7 @@
     {
      "price": 990,
      "unit": "кг",
-     "disc": 72,
+     "disc": 0,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
