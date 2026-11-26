@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:59",
+ "updated": "2026-11-26T05:49",
  "stores": [
   {
    "url": "https://s-garderob.ru/moskva/masterkova_4/",
@@ -16,7 +16,7 @@
      "per_piece": null,
      "last": "2026-11-25",
      "next": "2026-12-25",
-     "days": 30
+     "days": 29
     },
     {
      "price": 690,
@@ -25,8 +25,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -36,8 +36,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -47,8 +47,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -58,8 +58,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -69,8 +69,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -91,7 +91,7 @@
      "per_piece": null,
      "last": "2026-11-22",
      "next": "2026-12-22",
-     "days": 27
+     "days": 26
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BF%D1%80%D1%83%D0%B4%D1%8B%2C%20%D0%B4.26"
@@ -109,8 +109,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -120,8 +120,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -131,8 +131,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -142,8 +142,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -153,8 +153,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -164,8 +164,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -186,7 +186,7 @@
      "per_piece": null,
      "last": "2026-11-24",
      "next": "2026-12-24",
-     "days": 29
+     "days": 28
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%90%D0%BD%D0%B0%D0%B4%D1%8B%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%2C%20%D0%B4.8"
@@ -198,25 +198,25 @@
    "metro": "Бауманская",
    "blocks": [
     {
-     "price": 3490,
+     "price": 2990,
      "unit": "кг",
-     "disc": 0,
+     "disc": 14,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
-     "price": 4490,
+     "price": 3490,
      "unit": "кг",
-     "disc": 0,
+     "disc": 22,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -235,8 +235,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -255,8 +255,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -277,7 +277,7 @@
      "per_piece": null,
      "last": "2026-10-27",
      "next": "2026-11-27",
-     "days": 2
+     "days": 1
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9A%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%BC%D1%81%D0%BA%D0%B0%D1%8F%2C%2017"
@@ -289,14 +289,14 @@
    "metro": "Братиславская",
    "blocks": [
     {
-     "price": 490,
-     "unit": "кг",
-     "disc": 88,
+     "price": null,
+     "unit": "шт",
+     "disc": null,
      "est_price": null,
      "mode": "live",
-     "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "per_piece": 100,
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -306,8 +306,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -326,20 +326,20 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
      "price": 590,
      "unit": "кг",
-     "disc": 40,
+     "disc": 86,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
      "last": "2026-10-28",
      "next": "2026-11-28",
-     "days": 3
+     "days": 2
     },
     {
      "price": 3490,
@@ -348,20 +348,9 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
-     "days": 26
-    },
-    {
-     "price": null,
-     "unit": null,
-     "disc": null,
-     "est_price": null,
-     "mode": "est",
-     "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
-     "days": 26
+     "last": "2026-11-23",
+     "next": "2026-12-23",
+     "days": 27
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9B%D1%8E%D0%B1%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%20153"
@@ -379,8 +368,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -393,14 +382,14 @@
    "metro": "Бунинская аллея",
    "blocks": [
     {
-     "price": 2990,
+     "price": 2490,
      "unit": "кг",
-     "disc": 14,
+     "disc": 29,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -421,7 +410,7 @@
      "per_piece": null,
      "last": "2026-10-27",
      "next": "2026-11-27",
-     "days": 2
+     "days": 1
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9F%D0%B0%D0%BB%D0%B5%D1%85%D1%81%D0%BA%D0%B0%D1%8F%2C%20131%D0%90"
@@ -433,15 +422,15 @@
    "metro": "Варшавская",
    "blocks": [
     {
-     "price": 490,
-     "unit": "кг",
-     "disc": 88,
+     "price": null,
+     "unit": "шт",
+     "disc": null,
      "est_price": null,
      "mode": "live",
-     "per_piece": null,
+     "per_piece": 100,
      "last": "2026-10-28",
      "next": "2026-11-28",
-     "days": 3
+     "days": 2
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A7%D0%BE%D0%BD%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%2C%2010%D0%BA1"
@@ -459,9 +448,9 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
-     "days": 26
+     "last": "2026-11-23",
+     "next": "2026-12-23",
+     "days": 27
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%2C%202"
@@ -481,7 +470,7 @@
      "per_piece": null,
      "last": "2026-11-23",
      "next": "2026-12-23",
-     "days": 28
+     "days": 27
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9F%D1%80%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%2C%20%D0%B4.25"
@@ -495,12 +484,12 @@
     {
      "price": 3390,
      "unit": "кг",
-     "disc": 11,
+     "disc": 6,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -519,8 +508,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -535,12 +524,12 @@
     {
      "price": 690,
      "unit": "кг",
-     "disc": 50,
+     "disc": 30,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -555,12 +544,12 @@
     {
      "price": 1590,
      "unit": "кг",
-     "disc": 27,
+     "disc": 16,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -579,8 +568,8 @@
      "est_price": null,
      "mode": "est",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -595,23 +584,23 @@
     {
      "price": 1890,
      "unit": "кг",
-     "disc": 27,
+     "disc": 14,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
      "price": 2990,
      "unit": "кг",
-     "disc": 29,
+     "disc": 14,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -623,28 +612,28 @@
      "per_piece": null,
      "last": "2026-11-22",
      "next": "2026-12-22",
-     "days": 27
+     "days": 26
     },
     {
      "price": 990,
      "unit": "кг",
-     "disc": 60,
+     "disc": 83,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
      "last": "2026-10-29",
      "next": "2026-11-29",
-     "days": 4
+     "days": 3
     },
     {
      "price": 890,
      "unit": "кг",
-     "disc": 44,
+     "disc": 82,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -657,14 +646,14 @@
    "metro": "Новогиреево",
    "blocks": [
     {
-     "price": 3190,
+     "price": 2890,
      "unit": "кг",
-     "disc": 6,
+     "disc": 15,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -683,8 +672,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -701,11 +690,11 @@
      "unit": "кг",
      "disc": 0,
      "est_price": null,
-     "mode": "est",
+     "mode": "live",
      "per_piece": null,
      "last": "2026-11-24",
      "next": "2026-12-24",
-     "days": 29
+     "days": 28
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%2C%20%D0%B4.37/18"
@@ -723,8 +712,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -734,8 +723,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -745,8 +734,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -756,31 +745,31 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
      "price": 1090,
      "unit": "кг",
-     "disc": 45,
+     "disc": 82,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
      "last": "2026-10-28",
      "next": "2026-11-28",
-     "days": 3
+     "days": 2
     },
     {
      "price": 590,
      "unit": "кг",
-     "disc": 40,
+     "disc": 85,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
      "last": "2026-10-28",
      "next": "2026-11-28",
-     "days": 3
+     "days": 2
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%201%D0%90"
@@ -798,8 +787,8 @@
      "est_price": 2933,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -818,8 +807,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -829,8 +818,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -840,8 +829,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -851,8 +840,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -864,7 +853,7 @@
      "per_piece": null,
      "last": "2026-11-23",
      "next": "2026-12-23",
-     "days": 28
+     "days": 27
     },
     {
      "price": null,
@@ -873,8 +862,8 @@
      "est_price": null,
      "mode": "est",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -884,8 +873,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -898,14 +887,14 @@
    "metro": "Окружная",
    "blocks": [
     {
-     "price": 2790,
+     "price": 2290,
      "unit": "кг",
-     "disc": 15,
+     "disc": 30,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -915,8 +904,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -935,9 +924,9 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
-     "days": 26
+     "last": "2026-11-24",
+     "next": "2026-12-24",
+     "days": 28
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%9E%D0%BF%D0%BE%D0%BB%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D0%B4.21/1"
@@ -955,8 +944,8 @@
      "est_price": 1342,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -966,8 +955,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -977,8 +966,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -988,8 +977,8 @@
      "est_price": 742,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -999,8 +988,8 @@
      "est_price": 1792,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1010,8 +999,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1021,8 +1010,8 @@
      "est_price": 2242,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -1037,12 +1026,12 @@
     {
      "price": null,
      "unit": null,
-     "disc": 50,
+     "disc": 70,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -1061,8 +1050,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1072,8 +1061,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1083,8 +1072,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1094,8 +1083,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1105,8 +1094,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1118,7 +1107,7 @@
      "per_piece": null,
      "last": "2026-10-28",
      "next": "2026-11-28",
-     "days": 3
+     "days": 2
     },
     {
      "price": null,
@@ -1127,8 +1116,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1138,8 +1127,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -1158,8 +1147,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -1176,11 +1165,11 @@
      "unit": "кг",
      "disc": 0,
      "est_price": null,
-     "mode": "est",
+     "mode": "live",
      "per_piece": null,
-     "last": "2026-10-26",
-     "next": "2026-11-26",
-     "days": 1
+     "last": "2026-11-26",
+     "next": "2026-12-26",
+     "days": 30
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%9D%D0%B0%D1%85%D0%B8%D0%BC%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%2C%20%D0%B4.46"
@@ -1194,13 +1183,13 @@
     {
      "price": 590,
      "unit": "кг",
-     "disc": 40,
+     "disc": 86,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
      "last": "2026-10-28",
      "next": "2026-11-28",
-     "days": 3
+     "days": 2
     },
     {
      "price": 3490,
@@ -1209,8 +1198,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1220,8 +1209,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1231,8 +1220,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1242,8 +1231,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1253,8 +1242,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1264,8 +1253,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": 50,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -1284,8 +1273,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1295,8 +1284,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1306,20 +1295,20 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
-     "days": 26
+     "last": "2026-11-23",
+     "next": "2026-12-23",
+     "days": 27
     },
     {
      "price": 590,
      "unit": "кг",
-     "disc": 60,
+     "disc": 86,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
      "last": "2026-10-28",
      "next": "2026-11-28",
-     "days": 3
+     "days": 2
     },
     {
      "price": 2990,
@@ -1328,8 +1317,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1339,8 +1328,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -1353,14 +1342,14 @@
    "metro": "Солнцево",
    "blocks": [
     {
-     "price": 2190,
+     "price": 1890,
      "unit": "кг",
-     "disc": 15,
+     "disc": 27,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -1381,7 +1370,7 @@
      "per_piece": null,
      "last": "2026-10-28",
      "next": "2026-11-28",
-     "days": 3
+     "days": 2
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%2018"
@@ -1399,8 +1388,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1410,8 +1399,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1421,9 +1410,9 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
-     "days": 26
+     "last": "2026-11-23",
+     "next": "2026-12-23",
+     "days": 27
     },
     {
      "price": 3490,
@@ -1432,8 +1421,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1443,8 +1432,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1454,8 +1443,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1467,7 +1456,7 @@
      "per_piece": 100,
      "last": "2026-10-28",
      "next": "2026-11-28",
-     "days": 3
+     "days": 2
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A1%D1%85%D0%BE%D0%B4%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%20%D0%B4.35%D0%BA1"
@@ -1479,59 +1468,15 @@
    "metro": "Таганская",
    "blocks": [
     {
-     "price": null,
-     "unit": "шт",
-     "disc": null,
-     "est_price": null,
-     "mode": "live",
-     "per_piece": 50,
-     "last": "2026-10-26",
-     "next": "2026-11-26",
-     "days": 1
-    },
-    {
-     "price": 2990,
+     "price": 4190,
      "unit": "кг",
      "disc": 0,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
-     "days": 26
-    },
-    {
-     "price": 1990,
-     "unit": "кг",
-     "disc": 0,
-     "est_price": null,
-     "mode": "live",
-     "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
-     "days": 26
-    },
-    {
-     "price": 2490,
-     "unit": "кг",
-     "disc": 0,
-     "est_price": null,
-     "mode": "live",
-     "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
-     "days": 26
-    },
-    {
-     "price": 4990,
-     "unit": "кг",
-     "disc": 0,
-     "est_price": null,
-     "mode": "est",
-     "per_piece": null,
-     "last": "2026-10-26",
-     "next": "2026-11-26",
-     "days": 1
+     "last": "2026-11-26",
+     "next": "2026-12-26",
+     "days": 30
     },
     {
      "price": 2490,
@@ -1540,8 +1485,52 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
+     "days": 26
+    },
+    {
+     "price": 1490,
+     "unit": "кг",
+     "disc": 25,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-22",
+     "next": "2026-12-22",
+     "days": 26
+    },
+    {
+     "price": 1990,
+     "unit": "кг",
+     "disc": 20,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-22",
+     "next": "2026-12-22",
+     "days": 26
+    },
+    {
+     "price": 4990,
+     "unit": "кг",
+     "disc": 0,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-26",
+     "next": "2026-12-26",
+     "days": 30
+    },
+    {
+     "price": 1490,
+     "unit": "кг",
+     "disc": 50,
+     "est_price": null,
+     "mode": "live",
+     "per_piece": null,
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -1556,12 +1545,12 @@
     {
      "price": 1990,
      "unit": "кг",
-     "disc": 33,
+     "disc": 20,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -1580,8 +1569,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1591,8 +1580,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1602,19 +1591,19 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
      "price": 2490,
      "unit": "кг",
-     "disc": 17,
+     "disc": 41,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1624,8 +1613,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -1638,14 +1627,14 @@
    "metro": "Тульская",
    "blocks": [
     {
-     "price": 1200,
+     "price": 800,
      "unit": "кг",
-     "disc": 25,
+     "disc": 77,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -1664,8 +1653,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1675,8 +1664,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1686,8 +1675,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1697,8 +1686,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1708,8 +1697,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1719,8 +1708,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1732,7 +1721,7 @@
      "per_piece": null,
      "last": "2026-10-28",
      "next": "2026-11-28",
-     "days": 3
+     "days": 2
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%A2%D1%83%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%2C%20%D0%B4.16"
@@ -1750,8 +1739,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1761,20 +1750,20 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
-     "days": 26
+     "last": "2026-11-23",
+     "next": "2026-12-23",
+     "days": 27
     },
     {
      "price": 490,
      "unit": "кг",
-     "disc": 29,
+     "disc": 86,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
      "last": "2026-10-28",
      "next": "2026-11-28",
-     "days": 3
+     "days": 2
     },
     {
      "price": 1990,
@@ -1783,8 +1772,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1794,8 +1783,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1805,8 +1794,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1816,8 +1805,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -1830,14 +1819,14 @@
    "metro": "Улица Горчакова",
    "blocks": [
     {
-     "price": 390,
-     "unit": "кг",
-     "disc": 77,
+     "price": null,
+     "unit": "шт",
+     "disc": null,
      "est_price": null,
      "mode": "live",
-     "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "per_piece": 100,
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -1856,8 +1845,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1867,8 +1856,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -1883,13 +1872,13 @@
     {
      "price": 590,
      "unit": "кг",
-     "disc": 40,
+     "disc": 86,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
      "last": "2026-10-28",
      "next": "2026-11-28",
-     "days": 3
+     "days": 2
     },
     {
      "price": 1490,
@@ -1898,8 +1887,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1909,8 +1898,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1920,8 +1909,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1931,8 +1920,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1942,8 +1931,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1953,8 +1942,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": 50,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -1973,8 +1962,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1984,8 +1973,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -1995,8 +1984,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -2006,9 +1995,9 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
-     "days": 26
+     "last": "2026-11-23",
+     "next": "2026-12-23",
+     "days": 27
     },
     {
      "price": null,
@@ -2017,8 +2006,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -2028,8 +2017,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
@@ -2041,7 +2030,7 @@
      "per_piece": 100,
      "last": "2026-10-28",
      "next": "2026-11-28",
-     "days": 3
+     "days": 2
     }
    ],
    "map": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%2C%2028"
@@ -2053,25 +2042,25 @@
    "metro": "Юго-Западная",
    "blocks": [
     {
-     "price": 1890,
+     "price": 1590,
      "unit": "кг",
-     "disc": 14,
+     "disc": 16,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     },
     {
-     "price": 1890,
+     "price": 1590,
      "unit": "кг",
-     "disc": 14,
+     "disc": 16,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -2084,14 +2073,14 @@
    "metro": "Юго-Западная",
    "blocks": [
     {
-     "price": 1190,
+     "price": 890,
      "unit": "кг",
-     "disc": 25,
+     "disc": 44,
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
@@ -2110,8 +2099,8 @@
      "est_price": null,
      "mode": "live",
      "per_piece": null,
-     "last": "2026-11-21",
-     "next": "2026-12-21",
+     "last": "2026-11-22",
+     "next": "2026-12-22",
      "days": 26
     }
    ],
